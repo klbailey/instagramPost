@@ -1,0 +1,97 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.post {
+    height: 90%;
+    width: 70%;
+}
+
+.post-header {
+    background-color: white;
+    display: flex;
+    padding: 15px;
+    margin-top: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    /* height: 60px;
+    width: 77%; */
+}
+
+.html {
+    height: 25px;
+    padding: 15px;
+}
+
+h1 {
+    height: 25px;
+    font-weight: 900;
+    font-size: 15px;
+}
+
+.dots {
+    height: 35px;
+    margin-left: 555px;
+    margin-top: 15px;
+}
+
+.valley {
+    background-color: white;
+    /* display: flex; */
+    margin-right: 100px;
+    margin-left: 100px; 
+    margin-bottom: 0px;
+    height: 390px;
+    width:  79.5%;
+}
+
+.post-icons {
+    display: flex;
+    background-color: white;
+    height: 35px;
+    width: 80%;
+    margin-right: 100px;
+    margin-left: 100px;
+    justify-content: space-between;
+}
+
+.heart {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 24px;
+}
+
+.bubble {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 21px;
+}
+
+.share {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 21px;
+}
+
+.right {
+    justify-content: flex-end;
+}
+
+.bookmark {
+    margin-top: 10px;
+    height: 20px;
+    padding-right: 10px;
+}
+
+.post-body {
+    background-color: white;
+    height: 90%;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
